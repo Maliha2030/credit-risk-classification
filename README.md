@@ -35,5 +35,7 @@ Summarize the results of the machine learning models, and include a recommendati
 If you do not recommend any of the models, please justify your reasoning.
 
 References
+
 1 Code for random over sampler & logistic regression classifier https://github.com/Mun-Min/Credit_Risk_Classification/blob/main/credit_risk_resampling.ipynb
+
 2 Data Analytics Bootcamp Resources
