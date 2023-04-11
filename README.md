@@ -1,7 +1,3 @@
-# Credit-Risk-Classification
-
-Using various techniques to train and evaluate a model based on loan risk. Using a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
-
 # Credit Risk Analysis Report
 
 ## Overview of the Analysis
@@ -26,7 +22,7 @@ A prediction was again made and the new models performance evaluated.
   * Recall scores: Healthy loan =0.99, High risk loan=0.91
   
 * Machine Learning Model 2:
-  * Accuracy= 0.99 (to 2 decimal places)
+  * Balanced Accuracy Score= 0.99 (to 2 decimal places)
   * Precision: Healthy loan =1.00, High risk loan=0.84 
   * Recall scores: Healthy loan =0.99, High risk loan=0.99
 
