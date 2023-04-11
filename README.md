@@ -27,10 +27,10 @@ A prediction was again made and the new models performance evaluated.
   * Recall scores: Healthy loan =0.99, High risk loan=0.99
 
 ## Summary
-Machine Learning Model 2 appears to perform the best. The balanced accuracy score was higher for this model therefore I would use it to make predictions with regards to healthy or non-healthy loans.
+Machine Learning Model 2 appears to perform the best as the balanced accuracy score was higher for this model. I would therefore use it to make predictions with regards to healthy or non-healthy loans.
+
 
 References
-
 1 Code for random over sampler & logistic regression classifier https://github.com/Mun-Min/Credit_Risk_Classification/blob/main/credit_risk_resampling.ipynb
 
 2 Data Analytics Bootcamp Resources
