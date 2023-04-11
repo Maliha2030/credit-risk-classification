@@ -31,6 +31,7 @@ Machine Learning Model 2 appears to perform the best as the balanced accuracy sc
 
 
 References
+
 1 Code for random over sampler & logistic regression classifier https://github.com/Mun-Min/Credit_Risk_Classification/blob/main/credit_risk_resampling.ipynb
 
 2 Data Analytics Bootcamp Resources
